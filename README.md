@@ -1,2 +1,1 @@
 # yomitoku-sample
-# yomitoku-sample
